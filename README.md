@@ -209,7 +209,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Awesome Components
 
-- [Awesome React Components list](https://github.com/brillout/awesome-react-components)
+- [Awesome React Components list](https://github.com/brillout/awesome-react-components) <sub><sub> ![GitHub stars](https://img.shields.io/github/stars/brillout/awesome-react-components?style=social) </sub></sub>
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
